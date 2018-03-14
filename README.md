@@ -21,9 +21,9 @@ The Application used below concepts.
 
 The Application built with below screens and flow.
 
-![alt tag](https://github.com/shivsuthanmhub/StartupAct/blob/master/screens/screen1.png)
-![alt tag](https://github.com/shivsuthanmhub/StartupAct/blob/master/screens/screen2.png)
-![alt tag](https://github.com/shivsuthanmhub/StartupAct/blob/master/screens/screen3.png)
-![alt tag](https://github.com/shivsuthanmhub/StartupAct/blob/master/screens/screen4.png)
-![alt tag](https://github.com/shivsuthanmhub/StartupAct/blob/master/screens/screen5.png)
-![alt tag](https://github.com/shivsuthanmhub/StartupAct/blob/master/screens/screen6.png)
+![Screen 1](https://github.com/shivsuthanmhub/StartupAct/blob/master/screens/screen1.png)
+![Screen 2](https://github.com/shivsuthanmhub/StartupAct/blob/master/screens/screen2.png)
+![Screen 3](https://github.com/shivsuthanmhub/StartupAct/blob/master/screens/screen3.png)
+![Screen 4](https://github.com/shivsuthanmhub/StartupAct/blob/master/screens/screen4.png)
+![Screen 5](https://github.com/shivsuthanmhub/StartupAct/blob/master/screens/screen5.png)
+![Screen 6](https://github.com/shivsuthanmhub/StartupAct/blob/master/screens/screen6.png)
