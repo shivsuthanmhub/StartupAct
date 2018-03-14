@@ -1,0 +1,62 @@
+{
+  "results": [
+    {
+      "title": "Sebamed",
+      "type": "Baby",
+      "buy_now": "https://www.amazon.in/SebaMed-Sebamed-Baby-Lotion-400ml/dp/B00VEEHIEM/ref=sr_1_4?ie=UTF8&qid=1521037565&sr=8-4&keywords=sebamed",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51xm9WzD5CL.jpg",
+      "note": "Their baby bath section consists of baby cleansing bar, bubble bath, oil bath, shampoo and baby wash. Their baby skin care range consists of baby lotion, baby diaper rash cream, baby wipes, and baby lip balm. It also offers massage oil, sun cream, sun lotion and sun spray.",
+      "sub_note": "Their baby bath section consists of baby cleansing bar, bubble bath, oil bath, shampoo and baby wash.",
+      "brand_note": "The brand Sebamed offers a range of products for babies and adults worldwide."
+    },
+    {
+      "title": "Mothercare",
+      "type": "Baby",
+      "buy_now": "https://www.amazon.in/Mothercare-Know-Baby-Body-Wash/dp/B075DKCXN7/ref=sr_1_2_sspa?s=baby&ie=UTF8&qid=1521037605&sr=1-2-spons&keywords=mothercare&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61F6hrKLGfL._SL1100_.jpg",
+      "note": "Their feeding range consists of breastfeeding accessories, sterilizing and bottle feeding accessories, formula milk, bibs, breast pumps and soothers. Their weaning and toddler feeding range consists of weaning accessories, cups and beakers, bibs, toddler feeding accessories and high chairs. Their bathing range consists bath accessories, bath sets, and toiletries. It also offers products like disposable nappies, reusable nappies, wipes, swim nappies, and toilet training accessories.Their health range consists of humidifiers, sun safety, dental care, thermometers and medicine dispensers. They also have a range of clothing, nursery furniture, bedding, pushchairs, car seats, toys and more.",
+      "sub_note": "Their feeding range consists of breastfeeding accessories, sterilizing and bottle feeding accessories, formula milk, bibs, breast pumps and soothers.",
+      "brand_note": "Mother Care is probably the biggest name when it comes to baby care."
+    },
+    {
+      "title": "Chicco",
+      "type": "Baby",
+      "buy_now": "https://www.amazon.in/Chicco-Multiway-Evo-Stroller-Red/dp/B00CBTM40C/ref=sr_1_30_sspa?s=baby&ie=UTF8&qid=1521038573&sr=1-30-spons&keywords=Chicco&psc=1&smid=A3Q8O9W1W04EEZ",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81treQlxiGL._SL1500_.jpg",
+      "note": "Their pregnancy and breastfeeding range consists of breast pumps, feeding bottles, breast pads, bottle sterilizers and a boppy pillow. Their meal time range consists of eating and drinking accessories, food processors, high chairs, etc. Their skin care range consists of bath-time products, nappy change products, moisturizing products, nasal and oral hygiene products, thermometers and humidifiers. Their baby safety range consists of baby monitors and indoor and outdoor accessories. They also offer toys, clothing, shoes, travel gear and sleep time products.",
+      "sub_note": "Their pregnancy and breastfeeding range consists of breast pumps, feeding bottles, breast pads, bottle sterilizers and a boppy pillow.",
+      "brand_note": "The brand Chicco is one of the leading names in baby care today."
+    },
+    {
+      "title": "Macbook Pro",
+      "type": "computer",
+      "buy_now": "https://www.amazon.in/Apple-MacBook-MJLQ2HN-Integrated-Graphics/dp/B00YN5G3O0",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71UqSAcUeaL._SL1500_.jpg",
+      "note": "It’s razor thin, feather light and even faster and more powerful than before. It has the brightest, most colourful Mac notebook display ever. And it features the Touch Bar — a Multi-Touch–enabled strip of glass built into the keyboard for instant access to the tools you want, exactly when you want them. MacBook Pro is built on groundbreaking ideas. And it’s ready for yours.",
+      "sub_note": "MacBook Pro elevates the notebook to a whole new level of performance and portability.",
+      "brand_note": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California that designs, develops, and sells consumer electronics, computer software, and online services."
+    },
+    {
+      "title": "OnePlus 5",
+      "type": "mobile",
+      "buy_now": "https://www.amazon.in/OnePlus-Slate-Gray-128GB-memory/dp/B01FM8M0EI/ref=sr_1_3?s=electronics&ie=UTF8&qid=1521040438&sr=1-3&keywords=+B01FM8M0EI%7C+B0757142K9+%7CB0756ZFXVB+&refinements=p_36%3A1318507031",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71vNU7kpgyL._SL1500_.jpg",
+      "note": "A new robust Pro Mode lets you fine-tune settings like ISO, shutter speed, and more. Use the histogram, grid lines, and level features to take better photos, then capture RAW photos for professional-grade post production. The OnePlus 5 features the highest resolution dual camera on the planet. Photos are incredibly clear, so don't be afraid to zoom in. Our dual camera system and intelligent software work together to measure depth and find the perfect focus, instantly. Focusing is 40% faster than the OnePlus 3T. Our intelligent software can automatically detect various conditions and quietly optimizes for accuracy and clarity. It's professional quality, automated.",
+      "sub_note": "Dual camera technology lets you focus on your subject, progressively blurring the background for a gentle, yet powerful effect.",
+      "brand_note": "OnePlus creates beautifully designed products with premium build quality & brings the best technology to users around the world."
+    },
+    {
+      "title": "Apple MMEF2 Airpod ",
+      "type": "accessories",
+      "buy_now": "https://www.amazon.in/Apple-MMEF2-Wireless-Optical-Sensors/dp/B01MT3URQN/ref=sr_1_1?ie=UTF8&qid=1521040665&sr=8-1&keywords=apple+earpod",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51z9qnR-dOL._SL1024_.jpg",
+      "note": "After a simple one-tap setup, AirPods are automatically on and always connected. Using them is just as easy. They can sense when they’re in your ears and pause when you take them out. And the AirPods experience is just as amazing whether you’re listening to your iPhone, Apple Watch, iPad or Mac. It’s great-sounding music, movies and more to your ears. AirPods provide rich, high-quality AAC audio. And when you want to be heard, dual beamforming microphones filter out background noise when you make calls or talk to Siri.",
+      "sub_note": "All the groundbreaking things AirPods can do are driven by the custom-designed Apple W1 chip.",
+      "brand_note": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California that designs, develops, and sells consumer electronics, computer software, and online services."
+    }
+  ],
+  "info": {
+    "about": "List of albums",
+    "version": "1.1"
+  }
+}
